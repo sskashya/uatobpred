@@ -1,58 +1,58 @@
-Most_Frequent_Value
-15.0
-Male
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-0.0
-1.0
-0.0
-0.0
-Non-Smoker
-Non-Smoker
-Non-Smoker
-Non-Smoker
-Somewhat easy
-Easy
-Did not see
-Did not see
-Did not see
-Did not see
-Did not see
-Yes
-Unsure
-Unsure
-More addictive
-Unsure
-Strongly agree
-0.0
-0.0
-Rarely
-Not applicable
-Rarely
-Never
-Sometimes
-0.0
-0.0
-No
-No
-No
-No
-No
-No
-Heterosexual
-Not at all
-Not at all
-Not at all
-Not at all
-Yes_two_plus
-No
-More than two
-More than twice
-Ave_A
-No
-Non-smoker
+columns,value
+Age,15.0
+Sex,Male
+Mexican_Origin,0.0
+Puerto_Rican,0.0
+Cuban,0.0
+Other_Hispanic_Origin,0.0
+Native_American,0.0
+Asian,0.0
+Black,0.0
+Pacific_Islander,0.0
+White,1.0
+30-D_Freq,0.0
+30-D_Cravings,0.0
+When_after_waking,Non-Smoker
+Thinking_about_quitting,Non-Smoker
+12-M_tobacco_stoppage_freq,Non-Smoker
+30-D_sale_refusal_by_age,Non-Smoker
+store_tobacco_access,Somewhat easy
+online_tobacco_access,Easy
+E-cig_warnlab,Did not see
+cig_warnlab,Did not see
+cigar_warnlab,Did not see
+smokeless_warnlab,Did not see
+hookah_warnlab,Did not see
+12-M_seen_anti_tobacco_ads,Yes
+cigar_cig_comparison,Unsure
+smokeless_cig_comparison,Unsure
+E-cig_cig_comparison,More addictive
+hookah_cig_comparison,Unsure
+Tobacco_danger_agreement,Strongly agree
+cig_smoker_students_10Count,0.0
+e-cig_smoker_students_10Count,0.0
+Internet_ad_presence,Rarely
+Newspaper_ad_presence,Not applicable
+store_ad_presence,Rarely
+TV_ad_presence,Never
+TV_char_tobacco_usage,Sometimes
+7-D_home_tobacco_usage,0.0
+7-D_vehicle_tobacco_usage,0.0
+Have_not_seen_e-cig_usage_school,No
+school_bathroom_e-cig_usage,No
+classroom_e-cig_usage,No
+hallway_cafeteria_e-cig_usage,No
+school_grounds_e-cig_usage,No
+others_e-cig_usage,No
+Sexuality,Heterosexual
+Little_interest_in_activities,Not at all
+Feeling_depressed,Not at all
+Feeling_anxious,Not at all
+uncontrollable_worrying,Not at all
+Family_owns_vehicle,Yes_two_plus
+Own_bedroom,No
+Num_of_tech_consoles,More than two
+12-M_vacation_freq,More than twice
+12-M_grades,Ave_A
+Difficulty_concentrating_remembering_decisions,No
+smoking_status,Non-smoker
